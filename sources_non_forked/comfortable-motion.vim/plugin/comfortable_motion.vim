@@ -6,6 +6,7 @@
 
 scriptencoding utf-8
 
+
 if exists('g:loaded_comfortable_motion')
   finish
 endif
